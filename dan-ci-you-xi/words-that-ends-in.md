@@ -16,11 +16,15 @@
 
   柳条很软。
 
+  The finely twined baskets are made with young, pliable spruce roots.
+
+  这些编织精美的篮子是用柔韧的云杉嫩树根编成的。
+
   相关词：w\(ill\) wow
 
 * billow: 巨浪、翻腾 / 鼓起
 
-  The curtains _billowed_ in the _breeze_.
+  The curtains billowed in the _breeze_.
 
   窗帘在微风中鼓了起来。相关词：b\(ill\) b\(low\) \[below\]
 

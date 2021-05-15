@@ -2,17 +2,17 @@
 
 ## 逗号的用法
 
-\1. 在并列连词（ and, but, for, nor, or, yet ）前使用，用来连接句中的各分句。
+1. 在并列连词（ and, but, for, nor, or, yet ）前使用，用来连接句中的各分句。
 
-In fact you do, but you may not remember me. （ p17 全日制普通高级中学教科书（必修）英语第一册（下） Senior English for China Student ’s Book 1B 以下标有页码未特别注明出处的皆出自本书）
+   In fact, you don't understand my heart, I do care about you, but you don't seriously?
 
-\2. 用逗号来分隔一系列单词、词组和从句。
+2. 用逗号来分隔一系列单词、词组和从句。
 
-In summer, people like to go sailing, swimming, horse-riding and rock-climbing in the mountains. （p42）
+   In summer, people like to go sailing, swimming, horse-riding and rock-climbing in the mountains. 
 
-Red, pink, yellow and white roses filled the huge vases. （牛津现代高级英汉双解词典第 6 版 附录 4 标点使用法）
+   Red, pink, yellow and white roses filled the huge vases. （牛津现代高级英汉双解词典第 6 版 附录 4 标点使用法）
 
-In the summer of 1984, many trees died.
+   In the summer of 1984, many trees died.
 
 \3. 逗号用来分隔与句子其他部分密切相连的简短插入语或旁白。 （较长的，更为突兀的或复杂的插入成分的则用破折号或圆括号。 ）
 

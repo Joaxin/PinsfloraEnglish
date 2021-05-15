@@ -1,4 +1,9 @@
-# 英语谚语
+# 英语谚语(Proverbs & Idioms)
+
+一句古老的阿拉伯谚语说，“敌人的敌人是朋友。”
+An old Arab proverb says, 'The enemy of my enemy is my friend'.
+
+
 
 A bad beginning makes a bad ending.
 
@@ -444,6 +449,28 @@ A straight foot is not afraid of a crooked shoe.
 
 
 
+A watched pot never boils
+
+> When you're waiting eagerly for something, time never seems to pass quickly and it takes forever.
+
+**心急锅不开/心急吃不了热豆腐 **
+
+这种独特的比喻描述了一个人不耐烦地等着似乎一直没结果的感觉。
+
+当我们在等待锅里的水沸腾时，似乎水永远不会沸腾，心急的感觉与此相似。
+
+*It was the last day at school before the summer break and the last period seemed so long. As they say, a watched pot never boils.
+
+*He eagerly waited for the post man, and even grew impatient at times, a watched pot never boils.
+
+*The photographer waited for the lion to wake up, but as a pot on watch never boils, so he gave up.
+
+You have been waiting by the window all day, you know a watched pot never boils, our father will come when he comes. 
+
+你整天都在窗边等着，你知道心急锅不开，爸爸该来的时候会来的。
+
+
+
 A wise head makes a close mouth. 
 
 真人不露相，露相非真人。
@@ -516,9 +543,21 @@ Birds of a feather flock together.
 
 
 
+Bigger fish to fry.
+
+这个短语用来强调一件事比另一件事重要得多。
+
+在《敦刻尔克》里，老船长就曾说过类似的表达，“它有更大的鱼要抓”。
+
+I don’t care about the small house job, I’ve got bigger fish to fry with the High-rise Building project. 我不在乎小房子的工作，我对高层建筑项目有更大的兴趣。
+
+
+
 Blood is thicker than water. 
 
 血浓于水。
+
+比喻有血缘关系的人之间应该比没有血缘关系的人之间更为亲密。
 
 
 
@@ -534,6 +573,18 @@ Books and friends should be few but good.
 
 
 
+Bring home the bacon 
+
+养家糊口
+
+凡是把培根带回家的人，都是挣钱养家的人。
+
+面包和培根几乎成为西方饮食的标配，所以常用bread和bacon来表示日常生计、养家糊口。
+
+My father is very busy working to bring home the bacon. 我父亲正忙于工作赚钱养家。
+
+
+
 Business is business. 
 
 公事公办。
@@ -543,6 +594,30 @@ Business is business.
 Business is the salt of life. 
 
 事业是人生的第一需要。
+
+
+
+Butter him/her up 奉承巴结某人
+
+意思是为某人做些事情以便说服他们给你想要的东西。
+
+butter是面包的好搭档，涂上能使面包的口味更好。
+
+My husband doesn’t want to go on vacations, but maybe if I butter him up, he will change his mind. 我丈夫不想去度假，但如果我奉承他，他会改变主意的。
+
+
+
+Buy/bought a lemon 
+
+**买了个劣质商品**
+
+意思是你买到的东西无法正常使用，或者正在使用的时候坏掉了。总之它充满了缺点。
+
+lemon除了表示柠檬，还可以指“无用的东西；蹩脚货”，所以可以用lemon来吐槽质量差劲的东西。
+
+The car I bought is such a lemon. 我买的车真差劲。
+
+I bought a new washing machine, but I think it is a lemon because I only used it once before it broke down. 我买了一台新洗衣机，但我觉得它是个劣质产品，因为我只用了一次就坏掉了。
 
 
 
@@ -567,6 +642,18 @@ Care and diligence bring luck.
 Caution is the parent of safety. 
 
 小心驶得万年船。
+
+
+
+Chalk and cheese
+
+**相差甚远**
+
+用于描述比较两者之间的差异。
+
+chalk表示粉笔，cheese表示奶酪，虽然两个单词的拼写都是ch开头，但表达的意思却天差地别。
+
+Linda and her sister are complete opposites, like chalk and cheese. 琳达和她的姐姐是完全相反的，两人有天壤之别。
 
 
 
@@ -612,6 +699,27 @@ Constant dripping wears away a stone.
 
 
 
+Cook the books 
+
+做手脚，造假账
+
+一种会计用语，用于描述某人非法更改财务账户以盗取资金。
+
+食物经过烹调会改变味道，不知道被烧煮后的书是否还是原汁原味？
+
+We have a large amount of money missing; it looks like someone is cooking the books. 我们少了一大笔钱，好像有人对账目做了手脚。
+
+
+
+Cool as a cucumber 
+
+镇定自若
+
+在压力下能思考和表现得很好的人。
+Those firemen were as cool as cucumbers when they put out that fire. 那些消防员在扑灭那场大火时表现得镇定自若。
+
+
+
 Content is better than riches. 
 
 知足者常乐。
@@ -627,6 +735,15 @@ Count one's chickens before they are hatched.
 Courtesy on one side only lasts not long. 
 
 来而不往非礼也。
+
+
+
+Cream of the crop 
+
+百里挑一
+
+指的是一组事物中最好的或群体中最佳的。
+Luke is our best football player; he is by far the cream of the crop! 卢克是我们中间最好的足球运动员，他是迄今为止最出色的球员！
 
 
 
