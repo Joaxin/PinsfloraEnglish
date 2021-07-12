@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [口语](kou-yu/README.md)
-  * [Daily Communication](kou-yu/daily-communication/README.md)
-    * [Hello](kou-yu/daily-communication/hello.md)
-  * [场景](kou-yu/chang-jing.md)
+* [口语](spoken-english/README.md)
+  * [Daily Communication](spoken-english/daily-communication/README.md)
+    * [Hello](spoken-english/daily-communication/hello.md)
+  * [场景](spoken-english/chang-jing.md)
 * [词源](etymology.md)
 * [单词短语](vocabularies-words/README.md)
   * [英文缩写](vocabularies-words/ying-wen-suo-xie/README.md)
@@ -39,7 +39,9 @@
 * [演讲](wen-zhang-articles/speech/README.md)
   * [著名演讲](wen-zhang-articles/speech/zhu-ming-yan-jiang/README.md)
     * [马丁·路德·金最后演讲我已达至峰顶](wen-zhang-articles/speech/zhu-ming-yan-jiang/ma-ding-lu-de-jin-zui-hou-yan-jiang-wo-yi-da-zhi-feng-ding.md)
-* [名著](wen-zhang-articles/ming-zhu.md)
+* [名著](wen-zhang-articles/ming-zhu/README.md)
+  * [选篇](wen-zhang-articles/ming-zhu/xuan-pian/README.md)
+    * [再见，谢谢你们的鱼](wen-zhang-articles/ming-zhu/xuan-pian/zai-jian-xie-xie-ni-men-de-yu.md)
 * [阅读](wen-zhang-articles/yue-du.md)
 
 ## 翻译 <a id="translation"></a>

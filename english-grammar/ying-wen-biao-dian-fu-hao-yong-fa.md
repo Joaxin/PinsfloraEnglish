@@ -8,7 +8,7 @@
 
 2. 用逗号来分隔一系列单词、词组和从句。
 
-   In summer, people like to go sailing, swimming, horse-riding and rock-climbing in the mountains. 
+   In summer, people like to go sailing, swimming, horse-riding and rock-climbing in the mountains.
 
    Red, pink, yellow and white roses filled the huge vases. （牛津现代高级英汉双解词典第 6 版 附录 4 标点使用法）
 
@@ -170,7 +170,7 @@ Manufacturing and mining make up most of the country ’s industry.制造业和�
 
 \(2\) 对英文词或词组进行解说式释义时，释义部分加引号，各词义间用分号隔开（各词义如相近或相同也可以用逗号， 词义相差较远或不同时用分号） ，释义后的标点符号放在引号外。
 
- ①act the role 也作 take the role，意为“扮演某个角色；起某种作用” 。又如：
+①act the role 也作 take the role，意为“扮演某个角色；起某种作用” 。又如：
 
 She is fit to take tragic roles. 她适合扮演悲剧性人物。 （ P145）
 
@@ -230,7 +230,7 @@ Jack bought two tickets for the musical last Friday. 杰克上星期五买了两
 
 （5）① I’m not sure what I ought to do. 我还不能肯定我该怎么办。
 
- 上面最后一个例句也可以说： I’m not sure what to do. 当主句的主语和从句的主语相同，
+上面最后一个例句也可以说： I’m not sure what to do. 当主句的主语和从句的主语相同，
 
 而从句所表达的意思是“该如何如何”时，这个从句可以用“疑问句 +不定式”来代替。（高三英语人教版教师用书， P177）
 
@@ -252,7 +252,7 @@ Would you like to have anything else?在对话中经常有类似的省略。 （
 
 讲述两个人喜欢看电影：
 
- ①我喜欢看电影，而且是经常（ often）看
+①我喜欢看电影，而且是经常（ often）看
 
 ②Mike 也喜欢电影
 
@@ -262,11 +262,11 @@ Would you like to have anything else?在对话中经常有类似的省略。 （
 
 \(4\) What’s the meaning of the underlined word “pilot ” from the passage?
 
- A.司机 . B.探险家 . C.飞行员 . D.工程师 .
+A.司机 . B.探险家 . C.飞行员 . D.工程师 .
 
 What’s the meaning of excellent in English?
 
- A. Very good. B. Superior. C. Good. D. Well.
+A. Very good. B. Superior. C. Good. D. Well.
 
 \(5\) 教材第 12 页“ Then she turned away and went across the road, ⋯ ”和“ The patch was almost square in shape and less than a meter across.”两句中的 across含义是否相同？ （高二·外
 
@@ -296,15 +296,15 @@ What’s the meaning of excellent in English?
 
 \(4\) ①What’s the meaning of the underlined word “pilot ” from the passage?
 
- A.司机 B.探险家 C.飞行员 D.工程师
+A.司机 B.探险家 C.飞行员 D.工程师
 
 ②The meaning of the underlined word “pilot” from the passage is “**\_\_**”.
 
- A.司机 B.探险家 C.飞行员 D.工程师
+A.司机 B.探险家 C.飞行员 D.工程师
 
 What’s the meaning of “excellent” in English?
 
- A. Very good. B. Superior. C. Good. D. Well.
+A. Very good. B. Superior. C. Good. D. Well.
 
 \(5\) ①教材第 12 页“Then she turned away and went across the road, ⋯ ”和“The patch was almost square in shape and less than a meter across.”两句中的 across含义是否相同？ （高二·外
 
@@ -362,7 +362,7 @@ Skim through the first chapter.
 
 The new art relation of modernism is a concept that was most memorably given expression by Walter Pater: “All art constantly aspires towards the condition of music. ”
 
- 沃尔特·佩特对现代派的新艺术关系作了最难以忘怀的阐述： “所有的艺术都不断追求
+沃尔特·佩特对现代派的新艺术关系作了最难以忘怀的阐述： “所有的艺术都不断追求
 
 音乐般的境界。”
 
@@ -466,7 +466,7 @@ otherwise, besides 等等，不应该用作连词来联系并列从句，在它�
 
 2．如从句内已经已有标点，即使从句中有连词仍应用分号。
 
- Unfortunately, Tom couldn ’ t come; and his absence made things difficult for us.
+Unfortunately, Tom couldn ’ t come; and his absence made things difficult for us.
 
 \3. 如若干项内已有逗号，可用分号将各项分开。
 
@@ -474,7 +474,7 @@ On the committee are quite a few well-known people; for example, Professor Zhao,
 
 ## （十）连字符
 
- 各种复合词——如名词、动词、形容词等——可以被写做分开的单词（ hard drive 计算
+各种复合词——如名词、动词、形容词等——可以被写做分开的单词（ hard drive 计算
 
 机硬盘），或用连字符相接 （hard-and-fast 不容改变的），或是单个的词 （hardcover 精装的）。
 
@@ -504,7 +504,7 @@ Social security tax 社会保障税 high school reunion 高中毕业生聚会
 
 writer-critic 作家兼评论家 scholar-athlete 学者兼运动员但当一对名词中出现前一个名词修饰后一个名词的情况时，不用连字符。
 
- father figure 父亲的形象 opera lover 歌剧爱好者
+father figure 父亲的形象 opera lover 歌剧爱好者
 
 \8. 一般情况下前缀的后面不用连字符 （如：anti-，co-，multi- ，non-，over-，post-，re-，semi-， sub-，un-，under-）。
 
@@ -516,7 +516,7 @@ post-Victorian 后维多利亚时代（在大写字母前用连字符。 ） re-
 
 \9. 书写从 21—99 之间的复合数字时用。
 
- seventy-three thirty-one
+seventy-three thirty-one
 
 \10. 转行时用于单词的前半部之后。
 
