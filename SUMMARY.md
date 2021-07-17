@@ -2,8 +2,8 @@
 
 * [Initial page](README.md)
 * [口语](spoken-english/README.md)
-  * [Daily Communication](spoken-english/daily-communication/README.md)
-    * [Hello](spoken-english/daily-communication/hello.md)
+  * [日常用语](spoken-english/daily-communication/README.md)
+    * [Hello](spoken-english/daily-communication/communication-hello.md)
   * [场景](spoken-english/chang-jing.md)
 * [词源](etymology.md)
 * [单词短语](vocabularies-words/README.md)
@@ -16,6 +16,7 @@
     * [Words](vocabularies-words/english-slang/words.md)
     * [Daily](vocabularies-words/english-slang/daily.md)
   * [专业词汇](vocabularies-words/zhuan-ye-ci-hui/README.md)
+    * [复杂词汇](vocabularies-words/zhuan-ye-ci-hui/fu-za-ci-hui.md)
     * [元素周期表](vocabularies-words/zhuan-ye-ci-hui/yuan-su-zhou-qi-biao.md)
     * [贸易](vocabularies-words/zhuan-ye-ci-hui/mao-yi.md)
   * [单词分类](vocabularies-words/dan-ci-fen-lei/README.md)
@@ -46,7 +47,8 @@
 
 ## 翻译 <a id="translation"></a>
 
-* [场景](translation/chang-jing.md)
+* [场景](translation/translation-scene.md)
+* [中英互译](translation/zhong-ying-hu-yi.md)
 
 ## Wiki
 
