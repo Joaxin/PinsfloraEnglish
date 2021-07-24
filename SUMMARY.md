@@ -44,8 +44,9 @@
   * [选篇](wen-zhang-articles/literary/xuan-pian/README.md)
     * [达芬奇密码](wen-zhang-articles/literary/xuan-pian/da-fen-qi-mi-ma.md)
     * [再见，谢谢你们的鱼](wen-zhang-articles/literary/xuan-pian/zai-jian-xie-xie-ni-men-de-yu.md)
-* [阅读](wen-zhang-articles/english-reading.md)
-
+* [阅读](wen-zhang-articles/english-reading/README.md)
+    * [5 Ways To Develop Curiosity](wen-zhang-articles/english-reading/5 Ways To Develop Curiosity.md)
+    * [10 Signs You’re A Critical Thinker](wen-zhang-articles/english-reading/10 Signs You’re A Critical Thinker.md)
 ## 翻译 <a id="translation"></a>
 
 * [场景](translation/translation-scene/README.md)
