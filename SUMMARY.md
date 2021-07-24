@@ -47,6 +47,13 @@
 * [阅读](wen-zhang-articles/english-reading/README.md)
     * [5 Ways To Develop Curiosity](wen-zhang-articles/english-reading/5 Ways To Develop Curiosity.md)
     * [10 Signs You’re A Critical Thinker](wen-zhang-articles/english-reading/10 Signs You’re A Critical Thinker.md)
+    * [50 Habits of Highly Successful People You Should Learn](wen-zhang-articles/english-reading/50 Habits of Highly Successful People You Should Learn.md)
+    * [Dog Alphabet That I Made From The First Letters Of Their Breeds](wen-zhang-articles/english-reading/Dog Alphabet That I Made From The First Letters Of Their Breeds.md)
+    * [Hippotomonstresesquipedaliophobia](wen-zhang-articles/english-reading/Hippotomonstresesquipedaliophobia.md)
+    * [How to Stay Calm and Cool When You Are Extremely Stressed](wen-zhang-articles/english-reading/How to Stay Calm and Cool When You Are Extremely Stressed.md)
+    * [Proust Questionnaire 普鲁斯特问卷r](wen-zhang-articles/english-reading/Proust Questionnaire_普鲁斯特问卷.md)
+    * [Why can’t cats drink milkPlus 6 other feline myths](wen-zhang-articles/english-reading/Why can’t cats drink milkPlus 6 other feline myths.md)
+
 ## 翻译 <a id="translation"></a>
 
 * [场景](translation/translation-scene/README.md)
