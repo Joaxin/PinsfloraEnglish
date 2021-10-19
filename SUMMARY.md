@@ -1,10 +1,12 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [口语](english-spoken/README.md)
+* [🗨 口语](english-spoken/README.md)
   * [日常用语](english-spoken/daily-communication/README.md)
     * [Hello](english-spoken/daily-communication/communication-hello.md)
   * [场景](english-spoken/chang-jing.md)
+  * [考试口语](english-spoken/kao-shi-kou-yu/README.md)
+    * [IELTS](english-spoken/kao-shi-kou-yu/ielts.md)
 * [词源](english-etymology/README.md)
   * [英语词汇词源成分](english-etymology/ying-yu-ci-hui-ci-yuan-cheng-fen.md)
   * [医学术语](english-etymology/yi-xue-shu-yu.md)
@@ -12,7 +14,7 @@
   * [性别词汇 - Feminine, masculine or neuter](english-etymology/xing-bie-ci-hui-feminine-masculine-or-neuter.md)
   * [希腊神话词汇](english-etymology/xi-la-shen-hua-ci-hui.md)
   * [拉丁语起源与星期](english-etymology/la-ding-yu-qi-yuan-yu-xing-qi.md)
-  * [太阳系行星名称来源\(Heavenly bodies\)](english-etymology/tai-yang-xi-hang-xing-ming-cheng-lai-yuan-heavenly-bodies.md)
+  * [太阳系行星名称来源(Heavenly bodies)](english-etymology/tai-yang-xi-hang-xing-ming-cheng-lai-yuan-heavenly-bodies.md)
   * [人的称呼](english-etymology/ren-de-cheng-hu.md)
   * [情感词源](english-etymology/qing-gan-ci-yuan.md)
   * [-phobia](english-etymology/phobia.md)
@@ -56,8 +58,11 @@
   * [英文标点符号用法](english-grammar/ying-wen-biao-dian-fu-hao-yong-fa.md)
 * [单词游戏](english-games/README.md)
   * [Words that ends in](english-games/words-that-ends-in.md)
+* [🍎 学习资料](study-materials/README.md)
+  * [TED](study-materials/ted.md)
+  * [学习视频](study-materials/xue-xi-shi-pin.md)
 
-## 文章 <a id="wen-zhang-articles"></a>
+## 文章 <a href="wen-zhang-articles" id="wen-zhang-articles"></a>
 
 * [诗歌](wen-zhang-articles/poetry/README.md)
   * [纪伯伦 - 沙与沫（1926）](wen-zhang-articles/poetry/ji-bo-lun-sha-yu-mo-1926.md)
@@ -85,7 +90,7 @@
     * [10 Signs You’re A Critical Thinker](wen-zhang-articles/english-reading/life-hack/10-signs-youre-a-critical-thinker.md)
     * [5 Ways To Develop Curiosity](wen-zhang-articles/english-reading/life-hack/5-ways-to-develop-curiosity.md)
 
-## 翻译 <a id="translation"></a>
+## 翻译 <a href="translation" id="translation"></a>
 
 * [场景](translation/translation-scene/README.md)
   * [生活](translation/translation-scene/sheng-huo/README.md)
@@ -99,4 +104,3 @@
 ## Wiki
 
 * [世界公司名称](wiki/world-company-name.md)
-
