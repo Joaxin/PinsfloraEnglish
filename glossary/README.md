@@ -1,4 +1,8 @@
-# 专业词汇
+# 🗜 专业词汇
+
+![](../.gitbook/assets/kleptomaniacs\_puns.jpg)
+
+![](../.gitbook/assets/antidisestablishmentarianism.jpg)
 
 \
 From @Researcher Apps
