@@ -4,11 +4,12 @@
 * [🗨 口语](english-spoken/README.md)
   * [日常用语](english-spoken/daily-communication/README.md)
     * [Hello](english-spoken/daily-communication/communication-hello.md)
-  * [场景](english-spoken/chang-jing.md)
-  * [考试口语](english-spoken/kao-shi-kou-yu/README.md)
-    * [IELTS](english-spoken/kao-shi-kou-yu/ielts.md)
+  * [场景](english-spoken/chang-jing/README.md)
+    * [Meeting](english-spoken/chang-jing/meeting.md)
+  * [考试口语](english-spoken/spoken-english-test/README.md)
+    * [IELTS](english-spoken/spoken-english-test/ielts.md)
 * [词源](english-etymology/README.md)
-  * [英语词汇词源成分](english-etymology/ying-yu-ci-hui-ci-yuan-cheng-fen.md)
+  * [英语词汇词源成分](english-etymology/english-etymological-components.md)
   * [医学术语](english-etymology/yi-xue-shu-yu.md)
   * [处方中的拉丁文](english-etymology/chu-fang-zhong-de-la-ding-wen.md)
   * [性别词汇 - Feminine, masculine or neuter](english-etymology/xing-bie-ci-hui-feminine-masculine-or-neuter.md)
@@ -62,7 +63,7 @@
   * [TED](study-materials/ted.md)
   * [学习视频](study-materials/xue-xi-shi-pin.md)
 
-## 文章 <a href="wen-zhang-articles" id="wen-zhang-articles"></a>
+## 文章 <a href="#wen-zhang-articles" id="wen-zhang-articles"></a>
 
 * [诗歌](wen-zhang-articles/poetry/README.md)
   * [纪伯伦 - 沙与沫（1926）](wen-zhang-articles/poetry/ji-bo-lun-sha-yu-mo-1926.md)
@@ -90,7 +91,7 @@
     * [10 Signs You’re A Critical Thinker](wen-zhang-articles/english-reading/life-hack/10-signs-youre-a-critical-thinker.md)
     * [5 Ways To Develop Curiosity](wen-zhang-articles/english-reading/life-hack/5-ways-to-develop-curiosity.md)
 
-## 翻译 <a href="translation" id="translation"></a>
+## 翻译 <a href="#translation" id="translation"></a>
 
 * [场景](translation/translation-scene/README.md)
   * [生活](translation/translation-scene/sheng-huo/README.md)
