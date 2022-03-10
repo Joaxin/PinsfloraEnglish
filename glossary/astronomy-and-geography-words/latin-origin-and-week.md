@@ -1,6 +1,6 @@
 # 拉丁语起源与星期
 
-
+## 拉丁语起源与星期
 
 > @[稻草之城的博客](http://blog.sina.com.cn/necedemalis)
 >
@@ -83,7 +83,7 @@
 | buenas noches. | bonsoir.        | buona sera.      | good evening.   | Bună seara. | Boa noite. |
 | 复数             | 单数              | 单数               | 单数              | 单数          | 单数         |
 
-### **星期日**
+#### **星期日**
 
 希腊人将这一天称为hemera Heliou【太阳之日】，罗马人仿造出了拉丁语的dies Solis。solis是sol‘太阳’的属格，后者演变为西班牙语的sol、葡萄牙语的sol、意大利语的sole和罗马尼亚语的soare。sol的指小词形式 §\*soliculus§『-culus/-cula/-culum即拉丁语中的指小词后缀，一般构成小事物的概念，比如花flos的指小词为flosculus【小花】，后者进入英语中变为floscule；嘴巴os的指小词为osculum【小口】，这个词也被英语借用，表示“出水孔”等。但很多词汇在使用中已经丢失了表达小的概念了，比如眼睛oculus、耳朵auriculus( Auriculus is the diminutive form of ear (auris) in Latin, and Ocellus the diminutive of eye (oculus))。』则演变为法语的soleil。
 
@@ -103,7 +103,7 @@ Dominus为什么表示“主人”呢？它源于表示“房子”的domus，�
 
 在北欧神话中，太阳是叫作“苏尔”（Sunne）的女神。英语的Sunday就来源于此。
 
-### **星期一**
+#### **星期一**
 
 希腊人将这一天称为hemera Selenes【月亮之日】，罗马人仿造出了拉丁语的dies Lunae。lunae是月亮luna的属格，后者演变为西班牙语的luna、葡萄牙语的lua、意大利语的luna、法语的lune以及罗马尼亚语的lună。dies Lunae演变成法语的lundi 和意大利语的lunedì，而西班牙语的lunes和罗马尼亚语的luni则直接由Lunae演变而来。
 
@@ -123,7 +123,7 @@ Dominus为什么表示“主人”呢？它源于表示“房子”的domus，�
 
 在北欧神话中，月亮是太阳女神的弟弟，叫作“曼尼”（Mona）。Monday来源于此。
 
-### **星期二**
+#### **星期二**
 
 希腊人将这一天称为hemera Areos【战神阿瑞斯之日】，阿瑞斯Ares是希腊神话中的战神。罗马人将这一天改为对应罗马神灵【玛尔斯之日】，即dies Martis。
 
@@ -133,7 +133,7 @@ Dominus为什么表示“主人”呢？它源于表示“房子”的domus，�
 
 在北欧神话中，战神提尔（Tiu)是主神奥丁的儿子，是勇气和战争的象征。为了让巨狼相信众神不会伤害他，战神将自己的胳臂放在巨狼的嘴里。最后，巨狼发现自己上当，于是咬断了战神的胳臂。英语中的**Tuesday=Tu（战神）+es（的）+day（日）→献给战神的日子**。
 
-### 星期三
+#### 星期三
 
 希腊人将这一天称为hemera Hermou【亡灵引导神赫耳墨斯之日】，赫耳墨斯Hermes是希腊神话中的信使之神，并且负责将亡灵引领至冥界。罗马人将这一天改为对应罗马神灵，即dies Mercurii【亡灵引导神墨丘利之日】。
 
@@ -145,9 +145,9 @@ Wednesday(Wed.)—Day of the Mercury(水星日)。英语是Wednesday，来源于
 
 在古代中国，和现在的日本、韩国、朝鲜，一星期以“七曜”来分别命名，星期三叫水曜(yào)日。在中国民间口语称礼拜三，在台湾话也简称拜三。
 
-### **星期四**
+#### **星期四**
 
-希腊人将这一天称为§hemera Dios§『雷神宙斯之日, 在希腊语中，Zeus和Dios其实是一个词，只是在不同的方言中，写法不一样而已。』，Dios的核心部分di 本指“白天、日”，这个词本意指“发光”，di还表示“神”的概念，神话中众神都居住在天上，仰望苍天往往都给人一种神圣的敬畏感，而且神的形象往往都是被光辉笼罩着。所以Dios为“神圣、神”，于是我们也就知道了英语中的deity“神”，deify“神圣化”。由词根di又演变出§div词根§『从古希腊语到拉丁语的同源词汇，往往会出现这种加v现象，比如词neos/novus【新】、oid/vid【看】、naus/navis【水、河】、esper/vesper【黄昏】、ois/ovis【羊】、aus/avis【鸟】由此衍生出英语中的一些同源词根，像neo和nov“新”』，于是我们很容易理解divine“神圣的”， 而人名Dives源于拉丁语中的dives “有钱人”，这个词本来指被神赏识的人。
+希腊人将这一天称为§hemera Dios§『雷神宙斯之日, 在希腊语中，Zeus和Dios其实是一个词，只是在不同的方言中，写法不一样而已。』，Dios的核心部分di 本指“白天、日”，这个词本意指“发光”，di还表示“神”的概念，神话中众神都居住在天上，仰望苍天往往都给人一种神圣的敬畏感，而且神的形象往往都是被光辉笼罩着。所以Dios为“神圣、神”，于是我们也就知道了英语中的deity“神”(ˈdeɪəti)，deify“神圣化”。由词根di又演变出§div词根§『从古希腊语到拉丁语的同源词汇，往往会出现这种加v现象，比如词neos/novus【新】、oid/vid【看】、naus/navis【水、河】、esper/vesper【黄昏】、ois/ovis【羊】、aus/avis【鸟】由此衍生出英语中的一些同源词根，像neo和nov“新”』，于是我们很容易理解divine“神圣的”， 而人名Dives源于拉丁语中的dives “有钱人”，这个词本来指被神赏识的人。
 
 因为梵语和希腊拉丁语同属一个语系，有着共同的老祖先，我们顺带学习一下梵语中的一些重要词汇：
 
@@ -155,13 +155,13 @@ Wednesday(Wed.)—Day of the Mercury(水星日)。英语是Wednesday，来源于
 
 宙斯Zeus是希腊神话中的主神，也是掌握闪电雷鸣之神，罗马人将这一天改命以对应的罗马神灵【雷神朱庇特之日】，即dies Jovis。
 
-> 在整个希腊神话体系中，宙斯实在牛的太离谱了，整个古希腊神话中神界的故事脉络和人间的故事起源都得从他这里展开，要不整个希腊神话体系就散架了。神话中的大英雄，往往母亲或者外婆或老祖母在年轻美丽的时候都被宙斯给坑蒙拐骗过，人们说古希腊神话中的大英雄都是神的后代，就我们所知，著名大英雄里面至少有一半以上体内都有宙斯的基因。我们可以把去取金羊毛的Argo船拉上岸，逐个检测那些大英雄们的DNA，你会惊奇的发现这些脱氧核糖核酸几乎都有着完全相同的序列。而这还没算进去宙斯和女神生下的青年神呢，像太阳神阿波罗Apollo、月亮女神阿尔特米斯Artemis、智慧女神雅典娜Athena、战神阿瑞斯Ares、神使赫尔墨斯Hermes、青春女神Hebe、文艺女神缪斯Muses（music与museum起源）等等。
+> 整个古希腊神话中神界的故事脉络和人间的故事起源都得从宙斯这里展开，要不整个希腊神话体系就散架了。神话中的大英雄，往往母亲或者外婆或老祖母在年轻美丽的时候都被宙斯给坑蒙拐骗过，人们说古希腊神话中的大英雄都是神的后代，就我们所知，著名大英雄里面至少有一半以上体内都有宙斯的基因。我们可以把去取金羊毛的Argo船拉上岸，逐个检测那些大英雄们的DNA，你会惊奇的发现这些脱氧核糖核酸几乎都有着完全相同的序列。而这还没算进去宙斯和女神生下的青年神，像太阳神阿波罗Apollo、月亮女神阿尔特米斯Artemis、智慧女神雅典娜Athena、战神阿瑞斯Ares、神使赫尔墨斯Hermes、青春女神Hebe、文艺女神缪斯Muses（music与museum起源）等等。
 
-Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯的一个罗马小名，尊称是朱庇特Jupiter，在希腊神话中其原型就是宙斯Zeus。在神明和行星的对应中，人们把木星分给了宙斯，因为木星是所有行星中最大的，而宙斯也是世界的主神。于是英文中的木星被称作Jupiter。而Jove一般用在中世纪的占星术中，于是就有了英语中jovial指“属于木星宫的”，木星宫的人被认为天性快活，故jovial也有了“天性快活”之意，这样的人被称为jovian。
+Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯的一个罗马小名，尊称是朱庇特Jupiter，在希腊神话中其原型就是宙斯Zeus。在神明和行星的对应中，人们把木星Jupiter分给了宙斯，因为木星是所有行星中最大的，而宙斯也是世界的主神。而Jove一般用在中世纪的占星术中，于是就有了英语中jovial指“属于木星宫的”，木星宫的人被认为天性快活，故jovial也有了“天性快活”之意，这样的人被称为jovian。
 
 相似地，表示木星的法语的Jupiter、西班牙语的Júpiter、葡萄牙语的Júpiter、罗马尼亚语的Jupiter都由此而来；而意大利语中表示木星的Giove则来自拉丁语的Jovis。
 
-继续看Jupiter这个词，最初由Zeus(天、神)和pater(父亲)组成，直译为“天父”，罗马人将其写作Jupiter，这是罗马人对主神的尊称，似乎是受了近东神话的影响，比如基督教徒朝拜时我们听到的第一句话总是Our Father in heaven, hallowed be your name 。Pater和英语中的father同源，加几个送气音h就变过来了pater→phather→father，这是一个普遍存在于各种语言中的辅音法则，即加减h法则：比如中国南北方言中最大的一个差异就是有没有h音的问题，南方人往往会说si而不是shi，sa而不是sha；英语中很多首字母h是不发音的，像hour、honest，法语这样的例子中更多；在希伯来语中s和sh本是同一个字母等等。由pater衍生出的词汇有compatriot【有共同的父亲、有共同的祖先】即“同胞”， §patriarch§『patriarch 英\[ˈpeɪtriɑːk] 美\[ˈpeɪtriɑːrk] n. (男性) 家长，族长，酋长; 德高望重的男长者; (东正教和天主教的) 牧首，宗主教; \</br>\[例句]The patriarch of the house, Mr Jawad, rules it with a ferocity renowned throughout the neighbourhood 那户人家的家长贾瓦德先生治家严苛，名闻乡里。』， patricide“弑父”， patroit“爱国者”；罗马人祈祷时一开始就说pater noster ，相当于英语中祷告时的our father (in heaven)，由此衍生出paternoster(主祷文)。
+继续看Jupiter这词，最初由Zeus(天、神)和pater(父亲)组成，直译为“天父”，罗马人将其写作Jupiter，这是罗马人对主神的尊称，似乎是受了近东神话的影响，比如基督教徒朝拜时我们听到的第一句话总是Our Father in heaven, hallowed be your name 。Pater和英语中的father同源，加几个送气音h就变过来了pater→phather→father，这是一个普遍存在于各种语言中的辅音法则，即加减h法则：比如中国南北方言中最大的一个差异就是有没有h音的问题，南方人往往会说si而不是shi，sa而不是sha；英语中很多首字母h是不发音的，像hour、honest，法语这样的例子中更多；在希伯来语中s和sh本是同一个字母等等。由pater衍生出的词汇有compatriot【有共同的父亲、有共同的祖先】即“同胞”， §patriarch§『patriarch \[ˈpeɪtriɑːk] n. (男性) 家长，族长，酋长; 德高望重的男长者; (东正教和天主教的) 牧首，宗主教; \</br>The patriarch of the house, Mr Jawad, rules it with a ferocity renowned throughout the neighbourhood 那户人家的家长贾瓦德先生治家严苛，名闻乡里。』， patricide“弑父”， patroit“爱国者”；罗马人祈祷时一开始就说pater noster ，相当于英语中祷告时的our father (in heaven)，由此衍生出paternoster(主祷文)。
 
 对比拉丁语的Jovis和意大利语的Giove，会发现拉丁语的**j**进入意大利语往往变为**gi**，对比拉丁语和意大利语的对应词汇：
 
@@ -175,7 +175,7 @@ Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯
 
 在古代中国，和现代的日本、韩国、朝鲜，一星期以“七曜”来分别命名，星期四叫木曜日。这是从拉丁语直接转变过来的。在中国民间口语称礼拜四，在台湾话也简称拜四。
 
-### **星期五**
+#### **星期五**
 
 希腊人将这一天称为hemera Aphrodites【爱神阿佛洛狄忒之日】，阿佛洛狄忒Aphrodite是希腊神话中爱与美之女神，罗马人将这一天改命以对应的罗马神灵【维纳斯之日】，即dies Veneris。Veneris是拉丁语中爱与美之女神维纳斯Venus的属格。
 
@@ -189,7 +189,7 @@ Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯
 
 弗丽嘉（ **Frigg** ）是北欧神话中的爱神，是主神奥丁的妻子，掌管婚姻和家庭。她容貌美丽，金色的头发中间夹着白色的羽毛，身着束着金色腰带的白袍，腰带上挂一串钥匙。她拥有预知未来的能力，但从来不会泄露天机。弗丽嘉是诸神中唯一被允许坐在诸神奥丁的王座上观察宇宙万物的神祗。
 
-### **星期六**
+#### **星期六**
 
 希腊人将这一天称为hemera Cronou【农神克洛诺斯之日】，克洛诺斯Cronos是希腊神话的农神。罗马人将这一天改命以对应的罗马神灵【农神萨图尔努斯之日】，即dies Saturnii。Saturnii是拉丁语中农神萨图尔努斯Saturn的属格。
 
@@ -199,15 +199,15 @@ Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯
 
 星期六的英语德语均和日耳曼神无关。
 
-### REFERENCES
+#### REFERENCES
 
-\[1]  台伯河，又称特韦雷河(Fiume Tevere)，是仅次于波河()意大利北部和阿迪杰河(Adige)的意大利第三长河。源出亚平宁山脉（Appennini）富默奥洛山西坡，向南穿过一系列山峡和宽谷，流经罗马后，于奥斯蒂亚(Lido di Ostia)附近注入地中海的第勒尼安海（Tyrrhenian Sea）。全长405公里(252哩)\[2]  布匿战争（Punic Wars，或译布匿克战争）是在古罗马和古迦太基两个古代奴隶制国家之间为争夺地中海西部统治权而进行的一场著名战争，名字来自当时罗马对迦太基的称呼Punici（布匿库斯）。公元前264～前146年，两国为争夺地中海沿岸霸权发生了三次战争：
+\[1] 台伯河，又称特韦雷河(Fiume Tevere)，是仅次于波河()意大利北部和阿迪杰河(Adige)的意大利第三长河。源出亚平宁山脉（Appennini）富默奥洛山西坡，向南穿过一系列山峡和宽谷，流经罗马后，于奥斯蒂亚(Lido di Ostia)附近注入地中海的第勒尼安海（Tyrrhenian Sea）。全长405公里(252哩)\[2] 布匿战争（Punic Wars，或译布匿克战争）是在古罗马和古迦太基两个古代奴隶制国家之间为争夺地中海西部统治权而进行的一场著名战争，名字来自当时罗马对迦太基的称呼Punici（布匿库斯）。公元前264～前146年，两国为争夺地中海沿岸霸权发生了三次战争：
 
-第一次布匿战争（前264年-前241年），主要是在地中海上的海战。开始在西西里岛交战，接着罗马进攻迦太基本土，迦太基被打败。 第二次布匿战争（前218年-前201年），三个中最著名的战争。迦太基主帅汉尼拔率6万大军穿过阿尔卑斯山，入侵罗马。罗马则出兵马赛切断汉尼拔的补给，此时迦太基国内矛盾激发，汉尼拔回军驰援，罗马乘机进攻迦太基本土。迦太基战败，丧失全部海外领地，交出舰船，并向罗马赔款。 第三次布匿战争（前149年-前146年），这是一场罗马以强凌弱的侵略战争。罗马主动进攻，长期围困迦太基城，迦太基不甘被进攻，于是奋起作战。可惜最后迦太基战败惨遭屠城，领土成为罗马的一个省份——阿非利加行省。 布匿战争的结果是迦太基被灭，迦太基城也被夷为平地，罗马争得了地中海西部的霸权。\[3]  古罗马共和国和马其顿王国之间的4次战争。最终以罗马控制马其顿王国而告终。第一次战争（公元前214～前205年）马其顿的腓力五世取得胜利。第二次战争(公元前200～前196)中，罗马大获全胜，消灭了腓力的海军。罗马又发动了第三次战争(公元前171～前168)，腓力之子佩尔修斯战败，最后在彼得那会战中马其顿全面失败，被分割为4个自治共和国。第四次战争(公元前151～前146)中，马其顿接连举兵反抗罗马统治，最终罗马大军平息叛乱，4个共和国不复存在，马其顿成为罗马共和国的一个行省。\[4]  拉丁语中名词bai的变格组一般是按照其属格（而不是主格）单数词尾的形式确定/辨认的。对于少数仅以复数形式出现的名词，则是按其属格复数词尾的形式来确定。具体分类如下： 第一变格组:属格单数词尾为bai-ae，属格复数词尾为-ārum 第二变格组:属格单数词尾为zhuan-ī，属格复数词尾为-ōrum 第三变格组:属格单数词尾为-is，属格复数词尾为-um或-ium(后者属于第三变格组i词干) 第四变格组:属格单数词尾为-ūs，属格复数词尾为-uum 第五变格组:属格单数词尾为-eī/-ēī，属格复数词尾为-ērum
+第一次布匿战争（前264年-前241年），主要是在地中海上的海战。开始在西西里岛交战，接着罗马进攻迦太基本土，迦太基被打败。 第二次布匿战争（前218年-前201年），三个中最著名的战争。迦太基主帅汉尼拔率6万大军穿过阿尔卑斯山，入侵罗马。罗马则出兵马赛切断汉尼拔的补给，此时迦太基国内矛盾激发，汉尼拔回军驰援，罗马乘机进攻迦太基本土。迦太基战败，丧失全部海外领地，交出舰船，并向罗马赔款。 第三次布匿战争（前149年-前146年），这是一场罗马以强凌弱的侵略战争。罗马主动进攻，长期围困迦太基城，迦太基不甘被进攻，于是奋起作战。可惜最后迦太基战败惨遭屠城，领土成为罗马的一个省份——阿非利加行省。 布匿战争的结果是迦太基被灭，迦太基城也被夷为平地，罗马争得了地中海西部的霸权。\[3] 古罗马共和国和马其顿王国之间的4次战争。最终以罗马控制马其顿王国而告终。第一次战争（公元前214～前205年）马其顿的腓力五世取得胜利。第二次战争(公元前200～前196)中，罗马大获全胜，消灭了腓力的海军。罗马又发动了第三次战争(公元前171～前168)，腓力之子佩尔修斯战败，最后在彼得那会战中马其顿全面失败，被分割为4个自治共和国。第四次战争(公元前151～前146)中，马其顿接连举兵反抗罗马统治，最终罗马大军平息叛乱，4个共和国不复存在，马其顿成为罗马共和国的一个行省。\[4] 拉丁语中名词bai的变格组一般是按照其属格（而不是主格）单数词尾的形式确定/辨认的。对于少数仅以复数形式出现的名词，则是按其属格复数词尾的形式来确定。具体分类如下： 第一变格组:属格单数词尾为bai-ae，属格复数词尾为-ārum 第二变格组:属格单数词尾为zhuan-ī，属格复数词尾为-ōrum 第三变格组:属格单数词尾为-is，属格复数词尾为-um或-ium(后者属于第三变格组i词干) 第四变格组:属格单数词尾为-ūs，属格复数词尾为-uum 第五变格组:属格单数词尾为-eī/-ēī，属格复数词尾为-ērum
 
-### 扩展阅读
+#### 扩展阅读
 
-#### **西语中的早上好、中午好、晚上好**
+**西语中的早上好、中午好、晚上好**
 
 在其他罗曼语族（lenguas romances）（像是那些源自拉丁语系的语言）和日耳曼语族（lengua germánica）的语言中，问候时总是用单数形式（en singular）。
 
@@ -245,8 +245,6 @@ Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯
 
 他们认为西班牙语的问候形式，与宗教里的时辰礼仪（horas canónicas）类似。中世纪时期（la Edad Media）欧洲信仰基督教的地区把时间分为七个部分，遵循了修道院的宗教祷告时间（los rezos religiosos de los monasterios）。
 
-![img](file:///D:/OneDrive%20-%20assedu/collection/AEXO/Norra/source/imgs/en/src/etymology/weeks/be4acfbf4483412aa90da4d1fe1fbcd7.gif?lastModify=1627110490)
-
 这些祷告时间包括: “maitines”早祷（antes del amanecer，黎明之前），“laudes”赞祷（al amanecer，清晨），“vísperas”晚祷（tras la puesta del sol，日落后）等，这些都是复数形式。出于同样的原因，西语中的早上好（buenos días）、下午好（buenas tardes）和晚上好（buenas noches）都以复数形式出现。
 
 **Teoría 3**
@@ -256,8 +254,6 @@ Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯
 此外，还有学者认为西班牙语中的问候语用复数是为了表示强度（denotar intensidad），而不是数量（cantidad）。
 
 这种情况主要出现在一些敬语（frases de respeto）中，如“gracias”（谢谢）、“mis condolencias”（哀悼）、“saludos”（问候）、“felices fiestas”（节日快乐），等等。
-
-![img](file:///D:/OneDrive%20-%20assedu/collection/AEXO/Norra/source/imgs/en/src/etymology/weeks/895edf897b5342e29d3e683da15d74fe.jpeg?lastModify=1627110490)
 
 **用复数还是单数？**
 
@@ -271,7 +267,7 @@ Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯
 
 与其变得小气，只希望有一个美好的日子（un buen día），为了么不期盼更多更多的好日子呢？同样，为什么放弃能让西班牙语变得如此特别的东西呢？
 
-#### 词缀
+**词缀**
 
 父亲 patr [http://www.mosesenglish.com/word.asp?issueDate=2009-04-15](http://www.mosesenglish.com/word.asp?issueDate=2009-04-15)
 
@@ -279,23 +275,23 @@ Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯
 
 新的 neo [http://wordinfo.info/unit/1383/s:neo](http://wordinfo.info/unit/1383/s:neo)
 
-&#x20;nov [http://wordinfo.info/unit/1419/s:novel](http://wordinfo.info/unit/1419/s:novel)
+nov [http://wordinfo.info/unit/1419/s:novel](http://wordinfo.info/unit/1419/s:novel)
 
-&#x20;看 vid [http://wordinfo.info/unit/2298/s:video](http://wordinfo.info/unit/2298/s:video)
+看 vid [http://wordinfo.info/unit/2298/s:video](http://wordinfo.info/unit/2298/s:video)
 
-&#x20;oid [http://wordinfo.info/unit/1455/s:spheroid](http://wordinfo.info/unit/1455/s:spheroid)
+oid [http://wordinfo.info/unit/1455/s:spheroid](http://wordinfo.info/unit/1455/s:spheroid)
 
-&#x20;注：oid表示“the look of ” 像…一样
+注：oid表示“the look of ” 像…一样
 
-&#x20;关于加减h法则可见袁新民老师的博客文章，内有所涉及，地址为
+关于加减h法则可见袁新民老师的博客文章，内有所涉及，地址为
 
-&#x20;[http://blog.sina.com.cn/s/blog\_4e8d2f2901000c91.html](http://blog.sina.com.cn/s/blog\_4e8d2f2901000c91.html)
+[http://blog.sina.com.cn/s/blog\_4e8d2f2901000c91.html](http://blog.sina.com.cn/s/blog\_4e8d2f2901000c91.html)
 
 关于leuc词根的单词[**http://wordinfo.info/unit/1177/s:leuc**](http://wordinfo.info/unit/1177/s:leuc)
 
 关于luc 词根单词[**http://wordinfo.info/unit/1211/s:luci-**](http://wordinfo.info/unit/1211/s:luci-)
 
-&#x20;[**http://wordinfo.info/unit/1212/s:luci-**](http://wordinfo.info/unit/1212/s:luci-)
+[**http://wordinfo.info/unit/1212/s:luci-**](http://wordinfo.info/unit/1212/s:luci-)
 
 关于luna词根单词 [**http://wordinfo.info/unit/1218/s:luna**](http://wordinfo.info/unit/1218/s:luna)
 
@@ -303,6 +299,6 @@ Jovis乃是主神Jove的属格，意思是“属于Jove的”，Jove乃是宙斯
 
 关于die 词根的单词[**http://wordinfo.info/unit/2459/s:-diem**](http://wordinfo.info/unit/2459/s:-diem)
 
-#### 行星
+**行星**
 
 八大行星： [https://baike.baidu.com/item/八大行星/7990672](https://baike.baidu.com/item/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F/7990672)
